@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Personal Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="hero">
+      <nav>
+        <img src="images/logo.jpg" class="logo" height="250" width="250">
+        <ul>
+            <li><a href="#"> HOME</a></li>
+                <li><a href="#"> ABOUT</a></li>
+                    <li><a href="#">PORTFOLIO</a></li>
+                        <li><a href="#">EDUCATION AND QUALIFICATIONS</a></li>
+                            <li><a href="#">HIRE ME</a></li>
+            
+        </ul>
+        </nav>
+        <div class="detel">
+            <h1> I,m Anshika <span> Varshney</span></h1>
+            <p>This is my Official Portfolio Website which shows
+                <br> all details about me and my experiences<br>
+    </p>
+    <a href="mca resume.pdf"> DOWNLOAD MY RESUME</a>
+        </div>
+        <div class="images">
+            <img src="images/my photo.jpeg" alt="image" width="260" height="100">
+        </div>
+        
+        
+    
+        </div>
+      
+</body>
+</html>
+
